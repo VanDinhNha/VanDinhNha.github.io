@@ -3,24 +3,24 @@
     "id": "item1",
     "name": "BLACK OFF THE",
     "price": "124$",
-    "image": "https://raw.githubusercontent.com/vanpho93/LiveCodeReactNative/master/images/54.jpeg"
+    "image": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/54.jpeg"
   },
   {
     "id": "item2",
     "name": "CONTRAST EMBRO",
     "price": "121$",
-    "image": "https://raw.githubusercontent.com/vanpho93/LiveCodeReactNative/master/images/56.jpeg"
+    "image": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/56.jpeg"
   },
   {
     "id": "item3",
     "name": "tên",
     "price": "121$",
-    "image": "https://raw.githubusercontent.com/vanpho93/LiveCodeReactNative/master/images/58.jpeg"
+    "image": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/58.jpeg"
   },
   {
     "id": "item4",
     "name": "tên",
     "price": "121$",
-    "image": "https://raw.githubusercontent.com/vanpho93/LiveCodeReactNative/master/images/60.jpeg"
+    "image": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/60.jpeg"
   }
 ]
