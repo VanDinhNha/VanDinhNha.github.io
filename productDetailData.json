@@ -1,0 +1,31 @@
+[
+ {
+   "item1": {
+     "image1": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/54.jpeg",
+     "image2": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/55.jpeg",
+     "name": "BLACK OFF THE",
+     "price": "124$",
+     "material": "Vãi Nhun",
+     "size": "M/L/XL",
+     "description": "đây là sản phẩm 1 adadd afaffw ggwgww gwwweg gwgwgwgw ưgwgw wgwg wgwgwgw gưgwgwgw"
+   },
+   "item2": {
+     "image1": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/56.jpeg",
+     "image2": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/57.jpeg",
+     "name": "CONTRAST EMBRO",
+     "price": "121$",
+     "material": "Vãi Lụa",
+     "size": "M/L",
+     "description": "đây là sản phẩm 2 adadd afaffw ggwgww gwwweg gwgwgwgw ưgwgw wgwg wgwgwgw gưgwgwgw"
+   },
+   "item3": {
+     "image1": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/58.jpeg",
+     "image2": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/59.jpeg",
+     "name": "tên3",
+     "price": "121$",
+     "material": "Vãi Thung",
+     "size": "M/L/XL",
+     "description": "đây là sản phẩm 3 adadd afaffw ggwgww gwwweg gwgwgwgw ưgwgw wgwg wgwgwgw gưgwgwgw"
+   }
+ }
+]
