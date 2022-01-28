@@ -1,6 +1,7 @@
-[
+
  {
-   "item1": {
+   "item1": [
+    {
      "image1": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/54.jpeg",
      "image2": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/55.jpeg",
      "name": "BLACK OFF THE",
@@ -8,8 +9,10 @@
      "material": "Vãi Nhun",
      "size": "M/L/XL",
      "description": "đây là sản phẩm 1 adadd afaffw ggwgww gwwweg gwgwgwgw ưgwgw wgwg wgwgwgw gưgwgwgw"
-   },
-   "item2": {
+    }
+   ],
+   "item2": [
+    {
      "image1": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/56.jpeg",
      "image2": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/57.jpeg",
      "name": "CONTRAST EMBRO",
@@ -17,8 +20,10 @@
      "material": "Vãi Lụa",
      "size": "M/L",
      "description": "đây là sản phẩm 2 adadd afaffw ggwgww gwwweg gwgwgwgw ưgwgw wgwg wgwgwgw gưgwgwgw"
-   },
-   "item3": {
+    }
+   ],
+   "item3": [
+    {
      "image1": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/58.jpeg",
      "image2": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/59.jpeg",
      "name": "tên3",
@@ -26,6 +31,6 @@
      "material": "Vãi Thung",
      "size": "M/L/XL",
      "description": "đây là sản phẩm 3 adadd afaffw ggwgww gwwweg gwgwgwgw ưgwgw wgwg wgwgwgw gưgwgwgw"
-   }
+    }
+   ]
  }
-]
