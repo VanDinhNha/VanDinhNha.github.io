@@ -13,14 +13,20 @@
   },
   {
     "id": "item3",
-    "name": "tên",
+    "name": "tên3",
     "price": "121$",
     "image": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/58.jpeg"
   },
   {
     "id": "item4",
-    "name": "tên",
+    "name": "tên4",
     "price": "121$",
     "image": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/60.jpeg"
+  },
+  {
+    "id": "item5",
+    "name": "tên5",
+    "price": "12$",
+    "image": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/images/62.jpeg"
   }
 ]
