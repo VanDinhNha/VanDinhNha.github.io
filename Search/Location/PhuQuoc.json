@@ -1,14 +1,25 @@
 [
   {
-    "id": "11",
-    "name": "Khu du lịch Suối Tranh",
-    "title": "Khu du lịch suối Tranh là một trong những điểm du lịch sinh thái tại Phú Quốc xinh đẹp.",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_2.png"
+    "image1": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_2.png",
+         "image2": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_4.png",
+         "image3": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_5.png",
+         "name": "Khu du lịch Suối Tranh",
+         "title": "Khu du lịch suối Tranh là một trong những điểm du lịch sinh thái tại Phú Quốc xinh đẹp.",
+         "address": "ấp suối Mây, xã Dương Tơ, huyện đảo Phú Quốc, tỉnh Kiên Giang",
+	 "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/SuoiThanh.png",
+         "map": "https://www.google.com/maps/place/Khu+Du+L%E1%BB%8Bch+Su%E1%BB%91i+Tranh/@10.1766514,104.0102941,17z/data=!3m1!4b1!4m5!3m4!1s0x31a78e7dfacbcb41:0xb902a6a1b9521ffb!8m2!3d10.1766461!4d104.0124828?hl=vi-VN",
+         "description": "Khu du lịch suối Tranh là một trong những điểm du lịch sinh thái tại Phú Quốc xinh đẹp. Không gian nhuộm một màu xanh tươi của cây lá, tiếng suối chảy róc rách, tiếng chim hót líu lo. Nơi đây có thể được xem là “thiên đường xanh ở nơi trần gian”. Con đường dẫn đến khu du lịch suối Tranh Phú Quốc được bao trùm bởi hai hàng cây xanh cao vút, tít tắp, chủ yếu là những loại cây nhiệt đới lâu năm sống trong các khu rừng rậm. Với những ai yêu thích khám phá về các hệ sinh thái thì đây thật sự là một trải nghiệm thú vị. Đặt chân tới điểm du lịch sinh thái tại Phú Quốc này, du khách sẽ được chiêm ngưỡng dòng suối xanh thơ mộng trải dài như tấm lụa mềm mại. Điểm tô vào đó là những tảng đá với hình thù đa dạng, nhấp nhô tạo tạo nên những con thác nhỏ tung bọt nước trắng xóa. Những tia nắng lung linh len lỏi qua từng tán cây kẻ lá tạo nên một bức tranh thiên nhiên vô cùng sinh động. Nếu du lịch Phú Quốc mà bạn bỏ qua việc check in thì quả là một điều sai sốt. Và đến với suối Tranh cũng thế, bạn nên lưu giữ lại cho mình thật nhiều bức hình kỷ niệm. Những background thiên nhiên tuy đơn giản như là thác nước, rừng cây… nhưng sẽ giúp cho bạn có được những bức hình “sống ảo” cực chất."
   },
   {
     "id": "14",
-    "name": "Suối Đá Bàn",
-    "title": "Suối Đá Bàn được bao bọc bởi khung cảnh thiên nhiên kỳ thú, thơ mộng.",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_6.png"
+    "image1": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_6.png",
+         "image2": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_11.png",
+         "image3": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/Diem_du_lich_sinh_thai_tai_Phu_Quoc_8.png",
+         "name": "Suối Đá Bàn",
+         "title": "Suối Đá Bàn được bao bọc bởi khung cảnh thiên nhiên kỳ thú, thơ mộng.",
+         "address": "xã Cửa Dương, thị trấn Dương Đông, huyện đảo Phú Quốc, tỉnh Kiên Giang.",
+	 "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/SuoiDaBan.png",
+         "map": "https://www.google.com/maps/place/Su%E1%BB%91i+%C4%90%C3%A1+B%C3%A0n/@10.2457256,104.0296742,15.25z/data=!4m5!3m4!1s0x31a7896a8b9e228f:0x9713e27715132a64!8m2!3d10.2449093!4d104.0354892?hl=vi-VN",
+         "description": "Suối Đá Bàn được bao bọc bởi khung cảnh thiên nhiên kỳ thú, thơ mộng. Mang tên suối Đá Bàn bởi nhiều tảng đá ở đây đã bị mài mòn phẳng lỳ như mặt bàn do tác động của dòng suối chảy xiết quanh năm. Khí hậu rất mát mẻ, dễ chịu vì vậy suối Đá Bàn sẽ là địa điểm du lịch sinh thái lý tưởng ở Phú Quốc dành cho bạn vào dịp cuối tuần này.Để vào được suối Đá Bàn, bạn phải đi qua một cây cầu gỗ treo nằm ở ngay cổng vào. Cây cầu gỗ này được làm từ những miếng ván gỗ ghép lại nhau bằng dây thừng chắc chắn. Hai bên thành cầu được thiết kế bằng những sợi dây thừng đan xen vào nhau để tạo nên điểm vịn chắc chắn khi bước đi. Tuy nhìn có vẻ đơn giản nhưng độ an toàn thì vô cùng đảm bảo. Không gian rộng lớn của điểm du lịch sinh thái tại Phú Quốc này tạo nên sự thoải mái vô cùng kết hợp với dòng nước đổ từ trên cao xuống vừa hùng vĩ vừa thơ mộng hiếm có. Nước ở đây rất trong xanh, sạch sẽ, có thể nhìn tận xuống đáy nên mọi người có thể yên tâm để tắm. Bạn cũng có thể tổ chức buổi tiệc BBQ nướng ngay tại đây, vừa ăn uống, vừa ngắm cảnh, vừa trò chuyện ca hát cùng nhau. Bạn chỉ cần lựa một phiến đá bằng phẳng rồi bày đồ ăn ra để nướng và thưởng thức thôi. Còn nếu như bạn chưa kịp chuẩn bị thì có thể mua luôn đồ tại cổng để ăn uống. Lưu ý nhớ giữ gìn vệ sinh tại điểm du lịch sinh thái tại Phú Quốc này nhé!Giữa khung ảnh thiên nhiên thơ mộng cùng với những tảng đá to lớn và con suối róc rách chảy, thật là một điều đáng tiếc nếu bạn không ghi lại những khoảnh khắc nơi đây. Nhất định bạn sẽ có ngay cho mình một album xịn xò với chủ đề suối Đá Bàn Phú Quốc đó.Ngoài các hoạt động trên, khi đến điểm du lịch sinh thái tại Phú Quốc này thì mọi người có thể ghé thăm làng chài Hàm Ninh – góc nhỏ yên bình của Phú Quốc hay những cơ sở sản xuất nước mắm nổi tiếng, tạo nên thương hiệu độc quyền của tỉnh Kiên Giang. Bên cạnh đó còn có các vườn tiêu cũng là những gợi ý tuyệt vời dành cho bạn."
   }
 ]
