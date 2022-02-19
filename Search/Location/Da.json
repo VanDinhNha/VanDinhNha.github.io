@@ -47,18 +47,16 @@
       "map":"https://www.google.com/search?q=%C4%90%E1%BB%93i+%C4%90a+Ph%C3%BA+&rlz=1C1CHBF_enVN980VN980&biw=1366&bih=657&tbm=lcl&sxsrf=APq-WBsZec9CaqVWqbLSpMsszh4IRWcEXA%3A1643623790353&ei=brX3YeCCFYiImAWxh6CYCA&oq=%C4%90%E1%BB%93i+%C4%90a+Ph%C3%BA+&gs_l=psy-ab.3..0i512k1l6j0i22i30k1l4.25235.25235.0.26134.1.1.0.0.0.0.201.201.2-1.1.0....0...1c.1.64.psy-ab..0.1.200....0.B36RUJJzdhk#rlfi=hd:;si:;mv:[[11.9869606,108.4083902],[11.9807144,108.40136779999999]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!1m4!1u2!2m2!2m1!1e1!2m1!1e2!2m1!1e3!3sIAE,lf:1,lf_ui:2",
       "description":"Địa điểm này nằm ở phường 7 thành phố Đà Lạt tỉnh Lâm Đồng hoàn toàn miễn phí và không có giờ mở cửa. Đồi Đa Phú cách trung tâm Đà Lạt chỉ khoảng 20km. Để đến được đồi trước tiên bạn đến chùa Dục An Phú. Ngôi chùa tọa lạc ngay chân núi Đa Phú, từ đây bạn đi thêm khoảng 3km nữa là đến Đồi Đa Phú.Từ trên đỉnh đồi khách tham quan có cơ hội chiêm ngưỡng toàn cảnh thành phố Đà Lạt từ trên cao. Địa chỉ này là một trong các địa điểm săn mây ở Đà Lạt lý tưởng nhất. Ngoài ra với không gian khoáng đạt và thoáng đãng nhiều bạn  trẻ còn tổ chức cắm trại và làm party ngay tại đây. Trải nghiệm cắm trại tại đồi Đa Phú là một kỷ niệm vô cùng tuyệt vời cho một chuyến du lịch Đà Lạt. Buổi đêm sương xuống cùng nhau đốt lửa, nướng gà và hát ca. Sáng sớm thức giấc khi mặt trời vừa vượt qua tầng mây một chút đón nhận những tia nắng ấm áp đầu ngày. Nếu có ý định cắm trại qua đêm tại đây, các bạn  nên chuẩn bị lều trại hoặc là túi ngủ cho mình."
    },
-   [
-      {
-         "id":"10",
-         "image1":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_10.jpg",
-         "image2":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_11.jpg",
-         "image3":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_12.jpg",
-         "name":"Hồ Hòa Trung",
-         "title":"Khung cảnh thiên nhiên trong lành, thơ mộng say đắm lòng người tại hồ Hòa Trung.",
-         "address":"Hòa Vang, Đà Nẵng, Việt Nam.",
-         "imageMap":"https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/HoHoaTrung.png",
-         "map":"https://www.google.com/maps/place/H%E1%BB%93+H%C3%B2a+Trung/@16.0783251,108.0426674,15z/data=!3m1!4b1!4m5!3m4!1s0x31421fd4ad5d480d:0x675cdd5e7ea314a3!8m2!3d16.0799059!4d108.0554201?hl=vi-VN",
-         "description":"Hồ Hòa Trung là một trong những địa điểm du lịch Đà Nẵng nổi tiếng cách trung tâm thành phố khoảng 20 km. Trước đây, hồ Hòa Trung vốn dĩ là hồ nước nhân tạo để tưới tiêu và phục vụ sinh hoạt cho người dân hai xã Hoà Liên và Hòa Ninh. Tuy nhiên, hiện nay nơi đây lại trở thành một trong những điểm dừng chân được nhiều du khách ưa chuộng nhờ sở hữu khung cảnh thiên nhiên trong lành, thơ mộng say đắm lòng người.Địa điểm check-in hoang sơ ở Đà Nẵng này sở hữu không gian thiên nhiên thoáng đãng rất thích hợp để bạn cùng người thân trải nghiệm các hoạt động du lịch ngoài trời ấn tượng như cắm trại, tổ chức các buổi picnic dã ngoại, đạp xe khám phá khu vực bãi cỏ xanh, chèo thuyền ngắm cảnh, săn đón khung cảnh hoàng hôn thơ mộng hay sống ảo với vô vàn góc view thú vị…đều hứa hẹn mang đến những gợi ý trải nghiệm lý tưởng cho chuyến vi vu, khám phá của bạn."
-      }
-   ]
+   {
+      "id":"10",
+      "image1":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_10.jpg",
+      "image2":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_11.jpg",
+      "image3":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_12.jpg",
+      "name":"Hồ Hòa Trung",
+      "title":"Khung cảnh thiên nhiên trong lành, thơ mộng say đắm lòng người tại hồ Hòa Trung.",
+      "address":"Hòa Vang, Đà Nẵng, Việt Nam.",
+      "imageMap":"https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/HoHoaTrung.png",
+      "map":"https://www.google.com/maps/place/H%E1%BB%93+H%C3%B2a+Trung/@16.0783251,108.0426674,15z/data=!3m1!4b1!4m5!3m4!1s0x31421fd4ad5d480d:0x675cdd5e7ea314a3!8m2!3d16.0799059!4d108.0554201?hl=vi-VN",
+      "description":"Hồ Hòa Trung là một trong những địa điểm du lịch Đà Nẵng nổi tiếng cách trung tâm thành phố khoảng 20 km. Trước đây, hồ Hòa Trung vốn dĩ là hồ nước nhân tạo để tưới tiêu và phục vụ sinh hoạt cho người dân hai xã Hoà Liên và Hòa Ninh. Tuy nhiên, hiện nay nơi đây lại trở thành một trong những điểm dừng chân được nhiều du khách ưa chuộng nhờ sở hữu khung cảnh thiên nhiên trong lành, thơ mộng say đắm lòng người.Địa điểm check-in hoang sơ ở Đà Nẵng này sở hữu không gian thiên nhiên thoáng đãng rất thích hợp để bạn cùng người thân trải nghiệm các hoạt động du lịch ngoài trời ấn tượng như cắm trại, tổ chức các buổi picnic dã ngoại, đạp xe khám phá khu vực bãi cỏ xanh, chèo thuyền ngắm cảnh, săn đón khung cảnh hoàng hôn thơ mộng hay sống ảo với vô vàn góc view thú vị…đều hứa hẹn mang đến những gợi ý trải nghiệm lý tưởng cho chuyến vi vu, khám phá của bạn."
+   }
 ]
