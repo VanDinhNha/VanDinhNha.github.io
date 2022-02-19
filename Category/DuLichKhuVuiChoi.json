@@ -1,32 +1,62 @@
 [
   {
     "id": "2",
-    "name": "Phố cổ Hà Nội",
-    "title": "Phố cổ Hà Nội bao gồm 36 phố phường và mỗi phố lại tập trung bán một mặt hàng khác nhau",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_8.jpg"
+    "image1":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_8.jpg",
+    "image2":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_5.jpg",
+    "image3":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_13.jpg",
+    "name":"Phố cổ Hà Nội",
+    "title":"Phố cổ Hà Nội bao gồm 36 phố phường và mỗi phố lại tập trung bán một mặt hàng khác nhau.",
+    "address": "Phố cổ Hà Nội tọa lạc ở phía Tây và Bắc của hồ Hoàn Kiếm",
+    "imagemap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/PhoCoHaNoi.png",
+    "map": "https://www.google.com/maps/@21.0339054,105.8482798,17z?hl=vi-VN",
+    "description":"Phố cổ Hà Nội tọa lạc ở phía Tây và Bắc của hồ Hoàn Kiếm bao gồm 36 phố phường, mỗi phố lại tập trung bán một mặt hàng khác nhau. Giới hạn của phố cổ phía Bắc đến phố Hàng Đậu, phía Tây là phố Phùng Hưng, phía Nam là các tuyến phố: Hàng Bông, Hàng Gai, Cầu Gỗ và Hàng Thùng, phía Đông là đường Trần Quang Khải và Trần Nhật Duật. \nKhu phố cổ mang trong mình nét đẹp hoài cổ thú vị đến từ những ngôi nhà xưa cũ, các mảng tường rêu phong hay khu vực đường tàu nhuốm màu dấu ấn thời gian…Và mỗi độ xuân về, nơi đây lại trở thành địa điểm chụp ảnh Tết hấp dẫn nhiều người dân, du khách săn đón nhiệt tình khi từng căn nhà, ngõ phố lại được người dân trang hoàng với sắc đỏ của đèn lồng, tràng pháo, sắc hồng của những nhánh đào nở rộ…giúp bất cứ ai có cơ hội ghé thăm đều cảm nhận được âm hưởng Tết cổ truyền đầy hoài niệm."
   },
   {
     "id": "6",
-    "name": "Phố Ông Đồ",
-    "title": "Phố Ông Đồ là một hình ảnh vô cùng quen thuộc vào mỗi dịp xuân về",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_8.jpg"
+    "image1":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_7.jpg",
+    "image2":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_2.jpg",
+    "image3":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_8.jpg",
+    "name":"Phố Ông Đồ",
+    "title":"Phố Ông Đồ là một hình ảnh vô cùng quen thuộc vào mỗi dịp xuân về.",
+    "address": "Nhà văn hóa Thanh Niên, 4 Phạm Ngọc Thạch, quận 1. TP. Hồ Chí Minh",
+    "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/PhoOngDo.png",
+    "map": "https://www.google.com/maps/search/ph%E1%BB%91+%C3%B4ng+%C4%91%E1%BB%93+tp+hcm/@10.7936012,106.6993347,15z/data=!3m1!4b1?hl=vi-VN",
+    "description":"Đối với những người dân Sài thành, phố Ông Đồ tọa lạc phía trước Nhà văn hóa Thanh Niên là một hình ảnh vô cùng quen thuộc vào mỗi dịp xuân về. Càng gần Tết, khu vực này lại càng trở nên nhộn nhịp hơn nhờ vào quy mô bày trí, trang hoàng vô cùng công phu với những con đường hoa, các gian hàng bày bán những vật dụng gắn liền với dịp Tết như đèn lồng đỏ, tranh treo tường, bao lì xì, câu đối…hứa hẹn sẽ mang đến vô vàn background lý tưởng cho chuyến du xuân của bạn.Bên cạnh tham quan và check-in, địa điểm chụp ảnh Tết miễn phí ở Sài Gòn còn là nơi tổ chức các hoạt động mang đậm tính truyền thống như xin chữ ông đồ, biểu diễn nghệ thuật, trò chơi dân gian, múa lân sư rồng...để người dân hay du khách có thể thoải mái tham gia trải nghiệm sôi động, thú vị."
   },
   {
     "id": "9",
-    "name": " Phố sách Hà Nội",
-    "title": "Phố sách 19/12 là địa điểm chụp ảnh Tết miễn phí ở Hà Nội “must try” mà các tín đồ đam mê sống ảo không nên bỏ lỡ.",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_15.jpg"
+    "image1": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_15.jpg",
+    "image2": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_3.jpg",
+    "image3": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_ha_noi_4.jpg",
+    "name": "Phố sách Hà Nội",
+    "title": "Phố sách 19/12 là địa điểm chụp ảnh Tết miễn phí ở Hà Nội “must try” mà các tín đồ đam mê sống ảo không nên bỏ lỡ",
+    "address": "Phố 19 Tháng 12, Trần Hưng Đạo, quận Hoàn Kiếm, Hà Nội.",
+    "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/PhoSachHaNoi.png",
+    "map": "https://www.google.com/maps/place/Ph%E1%BB%91+s%C3%A1ch+H%C3%A0+N%E1%BB%99i/@21.0249756,105.8469373,16.25z/data=!4m5!3m4!1s0x3135ab93f3dad685:0x817ab8473a1ccffd!8m2!3d21.0255998!4d105.8481242?hl=vi-VN",
+    "description": "Phố sách Hà Nội hay phố sách 19/12 là địa điểm chụp ảnh Tết miễn phí ở Hà Nội “must try” mà các tín đồ đam mê sống ảo không nên bỏ lỡ. Nơi đây là một con phố nhỏ nằm gần Tòa Án Nhân Dân Hà Nội, tựa như một cầu nối giữa phố Lý Thường Kiệt - Hai Bà Trưng và luôn tấp nập người dân, du khách ghé thăm để trải nghiệm khám phá những đầu sách hấp dẫn cũng như check-in cháy máy với vô vàn background “thần thánh”.Vẻ đẹp của địa điểm du lịch Hà Nội này nằm ở lối kiến trúc của các cửa tiệm sách cùng con đường lát gạch mang âm hưởng cổ điển độc đáo đã tạo nên không gian sống ảo thú vị, mới mẻ dành cho những ai đang tìm kiếm một tọa độ dừng chân chụp ảnh vào dịp Tết. Đặc biệt, một số hiệu sách còn treo đèn lồng đỏ hay vào sự kiến lớn con đường này sẽ được treo đèn dây rực rỡ, vô cùng lý tưởng để bạn cùng người thân tham quan vào năm mới đấy."
   },
   {
     "id": "10",
+    "image1": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_10.jpg",
+    "image2": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_11.jpg",
+    "image3": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_12.jpg",
     "name": "Hồ Hòa Trung",
     "title": "Khung cảnh thiên nhiên trong lành, thơ mộng say đắm lòng người tại hồ Hòa Trung.",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_du_lich_hoang_so_o_da_nang_10.jpg"
+    "address": "Hòa Vang, Đà Nẵng, Việt Nam.",
+    "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/HoHoaTrung.png",
+    "map": "https://www.google.com/maps/place/H%E1%BB%93+H%C3%B2a+Trung/@16.0783251,108.0426674,15z/data=!3m1!4b1!4m5!3m4!1s0x31421fd4ad5d480d:0x675cdd5e7ea314a3!8m2!3d16.0799059!4d108.0554201?hl=vi-VN",
+    "description": "Hồ Hòa Trung là một trong những địa điểm du lịch Đà Nẵng nổi tiếng cách trung tâm thành phố khoảng 20 km. Trước đây, hồ Hòa Trung vốn dĩ là hồ nước nhân tạo để tưới tiêu và phục vụ sinh hoạt cho người dân hai xã Hoà Liên và Hòa Ninh. Tuy nhiên, hiện nay nơi đây lại trở thành một trong những điểm dừng chân được nhiều du khách ưa chuộng nhờ sở hữu khung cảnh thiên nhiên trong lành, thơ mộng say đắm lòng người.Địa điểm check-in hoang sơ ở Đà Nẵng này sở hữu không gian thiên nhiên thoáng đãng rất thích hợp để bạn cùng người thân trải nghiệm các hoạt động du lịch ngoài trời ấn tượng như cắm trại, tổ chức các buổi picnic dã ngoại, đạp xe khám phá khu vực bãi cỏ xanh, chèo thuyền ngắm cảnh, săn đón khung cảnh hoàng hôn thơ mộng hay sống ảo với vô vàn góc view thú vị…đều hứa hẹn mang đến những gợi ý trải nghiệm lý tưởng cho chuyến vi vu, khám phá của bạn."
   },
   {
     "id": "13",
+    "image1": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_9.jpg",
+    "image2": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_6.jpg",
+    "image3": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_1.jpg",
     "name": "Chợ hoa Hồ Thị Kỷ",
     "title": "Chợ Hồ Thị Kỷ vào những ngày cận Tết lại tấp nập “kẻ ra người vào” mua sắm.",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_9.jpg"
-  }
+    "address": "Địa chỉ: Hẻm 52 Hồ Thị Kỷ, phường 1, quận 10, TP. Hồ Chí Minh.",
+    "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/ChoHoaHoThiKy.png",
+    "map": "https://www.google.com/maps/place/Ch%E1%BB%A3+Hoa+H%E1%BB%93+Th%E1%BB%8B+K%E1%BB%B7/@10.7647246,106.6781651,17z/data=!4m9!1m2!2m1!1zQ2jhu6MgaG9hIEjhu5MgVGjhu4sgS-G7tw!3m5!1s0x31752f1e166124bd:0x88a7bac6d1ff76f5!8m2!3d10.7647246!4d106.6781651!15sChlDaOG7oyBob2EgSOG7kyBUaOG7iyBL4bu3WhsiGWNo4bujIGhvYSBo4buTIHRo4buLIGvhu7eSAQ1mbG93ZXJfbWFya2V0?hl=vi-VN",
+    "description": "Chợ Hồ Thị Kỷ là chợ hoa đầu mối lớn nhất Sài Gòn và đặc biệt vào những ngày cận Tết thì khu vực này lại càng tấp nập “kẻ ra người vào” mua sắm. Địa điểm này là nơi bày bán hàng trăm các loại hoa đa dạng về màu sắc như salem tím, mimosa, hải dương, hoa lan, lily, cúc, hồng, hướng dương, sen, baby…giúp bạn có thể thoải mái lựa chọn một bó hoa rực rỡ về trưng trong nhà.Vì sở hữu diện tích khá nhỏ nên những vị khách mong muốn ghé thăm chụp ảnh Tết tại địa điểm du lịch Sài Gòn nên sắp xếp lên kế hoạch vào buổi sáng sớm để vừa thuận lợi cho việc di chuyển, vừa bắt được background với vô vàn loài hoa rực rỡ mới được mang ra bày bán, chắc chắn sẽ giúp bạn sở hữu những bức ảnh hoàn hảo nhất."
+  },
 ]
