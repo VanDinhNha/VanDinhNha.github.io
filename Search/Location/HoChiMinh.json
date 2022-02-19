@@ -1,14 +1,26 @@
 [
   {
     "id": "6",
-    "name": "Phố Ông Đồ",
-    "title": "Phố Ông Đồ là một hình ảnh vô cùng quen thuộc vào mỗi dịp xuân về",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_8.jpg"
+    "image1":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_7.jpg",
+         "image2":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_2.jpg",
+         "image3":"https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_8.jpg",
+         "name":"Phố Ông Đồ",
+         "title":"Phố Ông Đồ là một hình ảnh vô cùng quen thuộc vào mỗi dịp xuân về.",
+	 "address": "Nhà văn hóa Thanh Niên, 4 Phạm Ngọc Thạch, quận 1. TP. Hồ Chí Minh",
+	 "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/PhoOngDo.png",
+         "map": "https://www.google.com/maps/search/ph%E1%BB%91+%C3%B4ng+%C4%91%E1%BB%93+tp+hcm/@10.7936012,106.6993347,15z/data=!3m1!4b1?hl=vi-VN",
+         "description":"Đối với những người dân Sài thành, phố Ông Đồ tọa lạc phía trước Nhà văn hóa Thanh Niên là một hình ảnh vô cùng quen thuộc vào mỗi dịp xuân về. Càng gần Tết, khu vực này lại càng trở nên nhộn nhịp hơn nhờ vào quy mô bày trí, trang hoàng vô cùng công phu với những con đường hoa, các gian hàng bày bán những vật dụng gắn liền với dịp Tết như đèn lồng đỏ, tranh treo tường, bao lì xì, câu đối…hứa hẹn sẽ mang đến vô vàn background lý tưởng cho chuyến du xuân của bạn.Bên cạnh tham quan và check-in, địa điểm chụp ảnh Tết miễn phí ở Sài Gòn còn là nơi tổ chức các hoạt động mang đậm tính truyền thống như xin chữ ông đồ, biểu diễn nghệ thuật, trò chơi dân gian, múa lân sư rồng...để người dân hay du khách có thể thoải mái tham gia trải nghiệm sôi động, thú vị."
   },
   {
     "id": "13",
-    "name": "Chợ hoa Hồ Thị Kỷ",
-    "title": "Chợ Hồ Thị Kỷ vào những ngày cận Tết lại tấp nập “kẻ ra người vào” mua sắm.",
-    "image": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_9.jpg"
+    "image1": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_9.jpg",
+         "image2": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_6.jpg",
+         "image3": "https://dulichvietnam.com.vn/vnt_upload/news/01_2022/dia_diem_chup_anh_tet_mien_phi_o_sai_gon_1.jpg",
+         "name": "Chợ hoa Hồ Thị Kỷ",
+         "title": "Chợ Hồ Thị Kỷ vào những ngày cận Tết lại tấp nập “kẻ ra người vào” mua sắm.",
+         "address": "Địa chỉ: Hẻm 52 Hồ Thị Kỷ, phường 1, quận 10, TP. Hồ Chí Minh.",
+	 "imageMap": "https://raw.githubusercontent.com/VanDinhNha/VanDinhNha.github.io/main/Image/map/ChoHoaHoThiKy.png",
+         "map": "https://www.google.com/maps/place/Ch%E1%BB%A3+Hoa+H%E1%BB%93+Th%E1%BB%8B+K%E1%BB%B7/@10.7647246,106.6781651,17z/data=!4m9!1m2!2m1!1zQ2jhu6MgaG9hIEjhu5MgVGjhu4sgS-G7tw!3m5!1s0x31752f1e166124bd:0x88a7bac6d1ff76f5!8m2!3d10.7647246!4d106.6781651!15sChlDaOG7oyBob2EgSOG7kyBUaOG7iyBL4bu3WhsiGWNo4bujIGhvYSBo4buTIHRo4buLIGvhu7eSAQ1mbG93ZXJfbWFya2V0?hl=vi-VN",
+         "description": "Chợ Hồ Thị Kỷ là chợ hoa đầu mối lớn nhất Sài Gòn và đặc biệt vào những ngày cận Tết thì khu vực này lại càng tấp nập “kẻ ra người vào” mua sắm. Địa điểm này là nơi bày bán hàng trăm các loại hoa đa dạng về màu sắc như salem tím, mimosa, hải dương, hoa lan, lily, cúc, hồng, hướng dương, sen, baby…giúp bạn có thể thoải mái lựa chọn một bó hoa rực rỡ về trưng trong nhà.Vì sở hữu diện tích khá nhỏ nên những vị khách mong muốn ghé thăm chụp ảnh Tết tại địa điểm du lịch Sài Gòn nên sắp xếp lên kế hoạch vào buổi sáng sớm để vừa thuận lợi cho việc di chuyển, vừa bắt được background với vô vàn loài hoa rực rỡ mới được mang ra bày bán, chắc chắn sẽ giúp bạn sở hữu những bức ảnh hoàn hảo nhất."
   }
 ]
